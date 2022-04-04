@@ -3,7 +3,7 @@ import numpy as np
 from mss import mss
 import keyboard as kb
 import pyautogui as pg
-from time import time, sleep
+from time import sleep
 
 
 pg.PAUSE = 0
@@ -38,12 +38,7 @@ wood_right = cv.imread('wood-right.jpg')
 w = wood_left.shape[1]
 h = wood_left.shape[0]
 
-fps_time = time()
-count = 0
-
 while True:
-  count += 1
-
   if left:
     scr = np.array(sct.grab(dimensions_left))
     wood = wood_left
@@ -58,7 +53,6 @@ while True:
   _, max_val, _, max_loc = cv.minMaxLoc(result)
 
   if max_val > .85:
-    count = 0
     left = not left
     if left:
       x=340
@@ -66,10 +60,6 @@ while True:
       x=600
 
     cv.rectangle(scr, max_loc, (max_loc[0] + w, max_loc[1] + h), (0,255,255), 2)
-    
-  if count > 200:
-    pg.click(x=460,y=1000)
-    sleep(1)
 
   cv.imshow('screenshot', scr)
   cv.setWindowProperty('screenshot', cv.WND_PROP_TOPMOST, 1)
@@ -77,5 +67,3 @@ while True:
   pg.click(x=x, y=y)
   if kb.is_pressed('q'):
     break
-
-  fps_time = time()
