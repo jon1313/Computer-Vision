@@ -1,3 +1,4 @@
+from time import sleep
 import cv2 as cv
 import numpy as np
 from mss import mss
@@ -21,14 +22,14 @@ dimensions_left = {
     'left': 254,
     'top': 650,
     'width': 183,
-    'height': 160
+    'height': 350
 }
 
 dimensions_right = {
     'left': 549,
     'top': 650,
     'width': 183,
-    'height': 160
+    'height': 350
 }
 
 wood_left = cv.imread('wood-left.jpg')
@@ -37,7 +38,10 @@ wood_right = cv.imread('wood-right.jpg')
 w = wood_left.shape[1]
 h = wood_left.shape[0]
 
+count = 0
 while True:
+    count += 1
+
     if left:
         scr = np.array(sct.grab(dimensions_left))
         wood = wood_left
@@ -52,6 +56,7 @@ while True:
     _, max_val, _, max_loc = cv.minMaxLoc(result)
 
     if max_val > .85:
+        count = 0
         left = not left
         if left:
             x = 340
@@ -65,5 +70,12 @@ while True:
     cv.setWindowProperty('screenshot', cv.WND_PROP_TOPMOST, 1)
     cv.waitKey(1)
     pg.click(x=x, y=y)
+
+    if count > 250:
+        sleep(5)
+        count = 0
+        left = True
+        pg.click(x=460, y=1000)
+
     if kb.is_pressed('q'):
         break
