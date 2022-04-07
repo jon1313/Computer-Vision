@@ -1,11 +1,13 @@
 # Kick Ya Chop AI
-| General      | Information                                                         |
-|--------------|---------------------------------------------------------------------|
-| High Score   | **108427**                                                          |
-| Game         | [Kick Ya Chop](https://www.addictinggames.com/clicker/kick-ya-chop) |
-| Video        | [YouTube](https://youtu.be/Mxn8CSJnF1w)                             |
-| Code Summary | *if branch observed above head &rarr; click other side*             |
+| General           | Information                                                         |
+|--------------     |---------------------------------------------------------------------|
+| AI High Score     | **108427**                                                          |
+| Hacking High Score| **∞**                                                          |
+| Game              | [Kick Ya Chop](https://www.addictinggames.com/clicker/kick-ya-chop) |
+| Video             | [YouTube](https://youtu.be/Mxn8CSJnF1w)                             |
+| Code Summary      | *if branch observed above head &rarr; click other side*             |
 ### ![GIF](https://media.giphy.com/media/hW9WiFcbMzgW11SBMN/giphy.gif)
+### ![Highscore](https://user-images.githubusercontent.com/97115586/162239276-305f65f6-6a1f-4778-a1bf-bdc7e85f404b.png)
 ## Setup
 1. `git clone <this repository>`
 2. `pip install -r requirements.txt`
