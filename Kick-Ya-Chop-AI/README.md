@@ -2,7 +2,7 @@
 | General           | Information                                                         |
 |--------------     |---------------------------------------------------------------------|
 | AI High Score     | **108427**                                                          |
-| Hacking High Score| **∞**                                                          |
+| Hacking High Score| **∞**                                                               |
 | Game              | [Kick Ya Chop](https://www.addictinggames.com/clicker/kick-ya-chop) |
 | Video             | [YouTube](https://youtu.be/Mxn8CSJnF1w)                             |
 | Code Summary      | *if branch observed above head &rarr; click other side*             |
