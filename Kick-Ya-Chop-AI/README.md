@@ -13,5 +13,8 @@
 2. `pip install -r requirements.txt`
 3. [Kick Ya Chop](https://www.addictinggames.com/clicker/kick-ya-chop)
   ![Screenshot](https://user-images.githubusercontent.com/97115586/162037885-bc01f8ef-3410-493c-b323-f58dd6ba9726.png)
-  *1920x1080*
+    | System       | Information                                                         |
+    |--------------|---------------------------------------------------------------------|
+    | Resolution   | *1920x1080*                                                         |
+    | Frequency    | *2.80GHz*                                                           |   
 4. `python main.py`
