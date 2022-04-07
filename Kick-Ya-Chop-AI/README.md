@@ -1,7 +1,7 @@
 # Kick Ya Chop AI
 | General      | Information                                                         |
 |--------------|---------------------------------------------------------------------|
-| High Score   | **66936**                                                           |
+| High Score   | **108427**                                                          |
 | Game         | [Kick Ya Chop](https://www.addictinggames.com/clicker/kick-ya-chop) |
 | Video        | [YouTube](https://youtu.be/Mxn8CSJnF1w)                             |
 | Code Summary | *if branch observed above head &rarr; click other side*             |
