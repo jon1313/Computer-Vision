@@ -7,7 +7,7 @@
 | Video             | [YouTube](https://youtu.be/Mxn8CSJnF1w)                             |
 | Code Summary      | *if branch observed above head &rarr; click other side*             |
 ### ![GIF](https://media.giphy.com/media/hW9WiFcbMzgW11SBMN/giphy.gif)
-### ![Highscore](https://user-images.githubusercontent.com/97115586/162250851-58ce9b35-9531-4e9f-8e10-66c2875ba153.png)
+### ![Highscore](https://user-images.githubusercontent.com/97115586/162262349-88a2cd81-6c2d-4af0-9403-fca8765be07f.png)
 ## Setup
 1. `git clone <this repository>`
 2. `pip install -r requirements.txt`
