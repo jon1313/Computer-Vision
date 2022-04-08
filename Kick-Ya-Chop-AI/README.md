@@ -12,7 +12,7 @@
 1. `git clone <this repository>`
 2. `pip install -r requirements.txt`
 3. [Kick Ya Chop](https://www.addictinggames.com/clicker/kick-ya-chop)
-  ![Screenshot](https://user-images.githubusercontent.com/97115586/162037885-bc01f8ef-3410-493c-b323-f58dd6ba9726.png)
+  ![Screenshot](https://user-images.githubusercontent.com/97115586/162406068-deba4980-4430-4cd5-b7a0-b2b9dda00d58.png)
     | System       | Information                                                         |
     |--------------|---------------------------------------------------------------------|
     | Resolution   | *1920x1080*                                                         |
