@@ -1,7 +1,7 @@
 # Kick Ya Chop AI
 | General           | Information                                                         |
 |--------------     |---------------------------------------------------------------------|
-| AI High Score     | **108427**                                                          |
+| AI High Score     | **148612**                                                          |
 | Hacking High Score| **∞**                                                               |
 | Game              | [Kick Ya Chop](https://www.addictinggames.com/clicker/kick-ya-chop) |
 | Video             | [YouTube](https://youtu.be/FtH4Y9FFi3Q)                             |
