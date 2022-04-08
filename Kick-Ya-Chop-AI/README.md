@@ -19,7 +19,7 @@
     | Frequency    | *2.80GHz*                                                           |   
 4. `python main.py`
 ## Hacked Leaderboards
-| Game                                                                                  | Screenshot                                              |
+| Game                                                                                  | Leaderboard                                             |
 |---------------------------------------------------------------------------------------|---------------------------------------------------------|
 |[Amazing Cube Adventure](https://www.addictinggames.com/clicker/amazing-cube-adventure)|![Amazing Cube Adventure](https://user-images.githubusercontent.com/97115586/162528479-93a74448-6a30-4a6e-b58f-f6a27df90438.png)|
 |[Beat Hop](https://www.addictinggames.com/clicker/beat-hop)|![Beat Hop](https://user-images.githubusercontent.com/97115586/162528833-7a43d2fc-1068-43ef-a2e1-0e010140aa82.png)|
