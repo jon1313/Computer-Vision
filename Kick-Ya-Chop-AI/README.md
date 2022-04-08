@@ -64,42 +64,45 @@
 |[Jump Red Square](https://www.addictinggames.com/clicker/jump-red-square)|![Jump Red Square](https://user-images.githubusercontent.com/97115586/162534285-4c2dbd6b-72d6-4fed-ab79-f2cf8ed4ffe7.png)|
 |[Knives](https://www.addictinggames.com/action/knives)|![Knives](https://user-images.githubusercontent.com/97115586/162534321-12914951-13bf-4b3b-9d31-ec6ee2dc9b04.png)|
 |[Lemonade](https://www.addictinggames.com/clicker/lemonade)|![Lemonade](https://user-images.githubusercontent.com/97115586/162534342-886d42e0-a742-4932-a000-70ad2b5ffb8e.png)|
-|[Macarons](https://www.addictinggames.com/puzzle/macarons)||
-|[Mannequin Head](https://www.addictinggames.com/clicker/mannequin-head)||
-|[Mr Pong](https://www.addictinggames.com/clicker/mr-pong)||
-|[Neon Block](https://www.addictinggames.com/clicker/neon-block)||
-|[Old School Hangman](https://www.addictinggames.com/puzzle/old-school-hangman)||
-|[Parkour Climb](https://www.addictinggames.com/action/parkour-climb)||
-|[Pinball Madness](https://www.addictinggames.com/action/pinball-madness)||
-|[Pocket Jump](https://www.addictinggames.com/clicker/pocket-jump)||
-|[Push Out](https://www.addictinggames.com/action/pushout)||
-|[Put Bacon](https://www.addictinggames.com/puzzle/put-bacon)||
-|[Rescuers](https://www.addictinggames.com/action/rescuers)||
-|[Retro Speed](https://www.addictinggames.com/car/retro-speed)||
-|[Retro Speed 2](https://www.addictinggames.com/car/retro-speed-2)||
-|[Risky Way](https://www.addictinggames.com/action/risky-way)||
-|[Rotare](https://www.addictinggames.com/clicker/rotare)||
-|[Samurai Rampage](https://www.addictinggames.com/clicker/samurai-rampage)||
-|[Santa Runner Game](https://www.addictinggames.com/action/santa-run)||
-|[Save Rocket](https://www.addictinggames.com/action/save-rocket)||
-|[Shot Pong](https://www.addictinggames.com/clicker/shot-pong)||
-|[Smileys](https://www.addictinggames.com/puzzle/smileys)||
-|[Snake And Circles](https://www.addictinggames.com/action/snakes-and-circles)||
-|[Solitaire 2048](https://www.addictinggames.com/puzzle/solitaire-2048)||
-|[Spear Toss Challenge](https://www.addictinggames.com/clicker/spear-toss-challenge)||
-|[Spiral Paint](https://www.addictinggames.com/shooting/spiral-paint)||
-|[Stack Colors](https://www.addictinggames.com/shooting/stack-colors)||
-|[Sticky Balls](https://www.addictinggames.com/clicker/sticky-balls)||
-|[Stickyman Run](https://www.addictinggames.com/strategy/stickyman-run)||
-|[Super Jump Box](https://www.addictinggames.com/clicker/super-jump-box)||
-|[Super Speed Runner](https://www.addictinggames.com/action/super-speed-runner)||
-|[Swatch Swap](https://www.addictinggames.com/puzzle/swatch-swap)||
-|[Swipe Dots](https://www.addictinggames.com/puzzle/swipe-dots)||
-|[Switch Dash](https://www.addictinggames.com/clicker/switch-dash)||
-|[Switch Hexagon](https://www.addictinggames.com/clicker/switch-hexagon)||
-|[Tap 10 Sec](https://www.addictinggames.com/puzzle/tap-10-sec)||
-|[Typing Fighter](https://www.addictinggames.com/action/typing-fighter)||
-|[Word Blitz](https://www.addictinggames.com/puzzle/word-blitz)||
-|[Word Squares](https://www.addictinggames.com/puzzle/word-squares)||
-|[Word Trail](https://www.addictinggames.com/puzzle/word-trail)||
+|[Macarons](https://www.addictinggames.com/puzzle/macarons)|![Macarons](https://user-images.githubusercontent.com/97115586/162534666-0633623a-00af-484c-a3b1-834c82af8b47.png)|
+|[Mannequin Head](https://www.addictinggames.com/clicker/mannequin-head)|![Mannequin Head](https://user-images.githubusercontent.com/97115586/162534681-d664606c-df61-455f-8382-cba4dce9e384.png)|
+|[Mr Pong](https://www.addictinggames.com/clicker/mr-pong)|![Mr Pong](https://user-images.githubusercontent.com/97115586/162534694-4664e1fd-d0d7-40b8-95c0-8e827f379a15.png)|
+|[Neon Block](https://www.addictinggames.com/clicker/neon-block)|![NEON BLOCK](https://user-images.githubusercontent.com/97115586/162534708-069287a9-b397-4bbd-af6e-8781c6546f1f.png)|
+|[Old School Hangman](https://www.addictinggames.com/puzzle/old-school-hangman)|![Old School Hangman](https://user-images.githubusercontent.com/97115586/162534720-e40cd244-7d0e-45d2-ba55-79455151410f.png)|
+|[Parkour Climb](https://www.addictinggames.com/action/parkour-climb)|![Parkour Climb](https://user-images.githubusercontent.com/97115586/162534730-41396b2a-8930-4db0-a392-0e0611d6b095.png)|
+|[Pinball Madness](https://www.addictinggames.com/action/pinball-madness)|![Pinball Madness](https://user-images.githubusercontent.com/97115586/162534758-60f8bdb5-cb76-40af-b086-40f7b7921997.png)|
+|[Pocket Jump](https://www.addictinggames.com/clicker/pocket-jump)|![Pocket Jump](https://user-images.githubusercontent.com/97115586/162534786-21ab106b-da26-40b3-adb9-b99d02de38c7.png)|
+|[Push Out](https://www.addictinggames.com/action/pushout)|![Push Out](https://user-images.githubusercontent.com/97115586/162534803-1cdd1446-3e51-47c2-a3b0-71d1085efc4c.png)|
+|[Put Bacon](https://www.addictinggames.com/puzzle/put-bacon)|![Put Bacon](https://user-images.githubusercontent.com/97115586/162534824-c6e6b4bc-ccd0-4503-8329-24f2663efafd.png)|
+|[Rescuers](https://www.addictinggames.com/action/rescuers)|![Rescuers](https://user-images.githubusercontent.com/97115586/162534836-476090d7-6d7f-4ad0-a750-e0d9ccc2dac0.png)|
+|[Retro Speed](https://www.addictinggames.com/car/retro-speed)|
+![Retro Speed](https://user-images.githubusercontent.com/97115586/162534853-ae2b57b0-8369-4dff-9d2b-56d1cc978ee1.png)|
+|[Retro Speed 2](https://www.addictinggames.com/car/retro-speed-2)|
+![Retro Speed 2](https://user-images.githubusercontent.com/97115586/162534862-7faf739b-50f5-4159-add3-8abdf4523375.png)|
+|[Risky Way](https://www.addictinggames.com/action/risky-way)|
+![Risky Way](https://user-images.githubusercontent.com/97115586/162534874-ac245cf1-bc11-4ad1-875c-3be985ff7f93.png)|
+|[Rotare](https://www.addictinggames.com/clicker/rotare)|![Rotare](https://user-images.githubusercontent.com/97115586/162534890-99bd1d91-73bb-4030-bb77-ea2f4dfbcee1.png)|
+|[Samurai Rampage](https://www.addictinggames.com/clicker/samurai-rampage)|![Samurai Rampage](https://user-images.githubusercontent.com/97115586/162534900-efa2ddb1-3380-4007-a0d3-db1c7238350c.png)|
+|[Santa Runner Game](https://www.addictinggames.com/action/santa-run)|![Santa Runner Game](https://user-images.githubusercontent.com/97115586/162534910-1c351159-a811-4cbc-af98-b7d1d53762c6.png)|
+|[Save Rocket](https://www.addictinggames.com/action/save-rocket)|![Save Rocket](https://user-images.githubusercontent.com/97115586/162534925-146f7176-c478-461c-8de0-702eefcec39d.png)|
+|[Shot Pong](https://www.addictinggames.com/clicker/shot-pong)|![Shot Pong](https://user-images.githubusercontent.com/97115586/162534948-69044660-e6af-493e-8e85-d3aa2d72a420.png)|
+|[Smileys](https://www.addictinggames.com/puzzle/smileys)|![Smileys](https://user-images.githubusercontent.com/97115586/162534956-f820aed4-ccbe-421d-9d95-9933d02f2907.png)|
+|[Snake And Circles](https://www.addictinggames.com/action/snakes-and-circles)|![Uploading Snake And Circles.png…]()|
+|[Solitaire 2048](https://www.addictinggames.com/puzzle/solitaire-2048)|![Solitaire 2048](https://user-images.githubusercontent.com/97115586/162534989-85d3d61c-0941-4c80-a874-085e4dbe37da.png)|
+|[Spear Toss Challenge](https://www.addictinggames.com/clicker/spear-toss-challenge)|![Spear Toss Challenge](https://user-images.githubusercontent.com/97115586/162535001-daa2ade1-1c7e-424e-86a8-d69ea69e3e84.png)|
+|[Spiral Paint](https://www.addictinggames.com/shooting/spiral-paint)|![Spiral Paint](https://user-images.githubusercontent.com/97115586/162535048-4704e147-2cad-4f85-8a6a-e88be49ab039.png)|
+|[Stack Colors](https://www.addictinggames.com/shooting/stack-colors)|![Stack Colors](https://user-images.githubusercontent.com/97115586/162535068-76535597-7d62-459f-9cea-ef581139681e.png)|
+|[Sticky Balls](https://www.addictinggames.com/clicker/sticky-balls)|![Sticky Balls](https://user-images.githubusercontent.com/97115586/162535079-ecd2ca62-b5d5-4eab-8058-bea1fd17a815.png)|
+|[Stickyman Run](https://www.addictinggames.com/strategy/stickyman-run)|![Stickyman Run](https://user-images.githubusercontent.com/97115586/162535088-4cf11bca-44cd-49c3-bd23-087d9200b54c.png)|
+|[Super Jump Box](https://www.addictinggames.com/clicker/super-jump-box)|![Super Jump Box Game](https://user-images.githubusercontent.com/97115586/162535105-1de1462a-3440-4abd-b7f1-b41c5dae5a15.png)|
+|[Super Speed Runner](https://www.addictinggames.com/action/super-speed-runner)|![Super Speed Runner](https://user-images.githubusercontent.com/97115586/162535120-ea53695a-a396-43b3-838b-a4b9dd9f1e1f.png)|
+|[Swatch Swap](https://www.addictinggames.com/puzzle/swatch-swap)|![Swatch Swap](https://user-images.githubusercontent.com/97115586/162535136-0ae08356-ae2a-44fb-89e4-782a9c892c97.png)|
+|[Swipe Dots](https://www.addictinggames.com/puzzle/swipe-dots)|![Swipe Dots](https://user-images.githubusercontent.com/97115586/162535161-ccacc7b4-f46a-4837-bfeb-4d7356ef7d4a.png)|
+|[Switch Dash](https://www.addictinggames.com/clicker/switch-dash)|![Switch Dash](https://user-images.githubusercontent.com/97115586/162535181-f45f571d-36b3-4093-ac12-8a6baf68ab2a.png)|
+|[Switch Hexagon](https://www.addictinggames.com/clicker/switch-hexagon)|![Switch Hexagon](https://user-images.githubusercontent.com/97115586/162535195-0d00c373-142b-46f0-89b8-5d197bea5117.png)|
+|[Tap 10 Sec](https://www.addictinggames.com/puzzle/tap-10-sec)|![Tap 10 Sec](https://user-images.githubusercontent.com/97115586/162535266-c73087f5-17bf-4491-831c-341de474f7ce.png)|
+|[Typing Fighter](https://www.addictinggames.com/action/typing-fighter)|![Typing Fighter](https://user-images.githubusercontent.com/97115586/162535231-babc2a24-5ffc-458f-99e0-0afffae721c8.png)|
+|[Word Blitz](https://www.addictinggames.com/puzzle/word-blitz)|![Word Blitz](https://user-images.githubusercontent.com/97115586/162535283-ce4fa451-cca0-4a82-8a32-2b3049ed4cd7.png)|
+|[Word Squares](https://www.addictinggames.com/puzzle/word-squares)|![Word Squares](https://user-images.githubusercontent.com/97115586/162535307-61fe6129-baa2-4bc6-99f5-d2ba6db8507b.png)|
+|[Word Trail](https://www.addictinggames.com/puzzle/word-trail)|![Word Trail](https://user-images.githubusercontent.com/97115586/162535323-b2f579fe-5e99-4ce8-9e74-8165fe60275c.png)|
 |...|...|
