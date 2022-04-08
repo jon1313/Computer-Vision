@@ -6,7 +6,7 @@
 | Game              | [Kick Ya Chop](https://www.addictinggames.com/clicker/kick-ya-chop) |
 | Video             | [YouTube](https://youtu.be/FtH4Y9FFi3Q)                             |
 | Code Summary      | *if branch observed above head &rarr; click other side*             |
-### ![GIF](https://media.giphy.com/media/Cy5xqHoyZUEIC2mhtK/giphy.gif)
+### ![GIF](https://media.giphy.com/media/VzufVpCGsVHSPoZTwX/giphy-downsized-large.gif)
 ### ![Highscore](https://user-images.githubusercontent.com/97115586/162262349-88a2cd81-6c2d-4af0-9403-fca8765be07f.png)
 ## Setup
 1. `git clone <this repository>`
