@@ -75,19 +75,16 @@
 |[Push Out](https://www.addictinggames.com/action/pushout)|![Push Out](https://user-images.githubusercontent.com/97115586/162534803-1cdd1446-3e51-47c2-a3b0-71d1085efc4c.png)|
 |[Put Bacon](https://www.addictinggames.com/puzzle/put-bacon)|![Put Bacon](https://user-images.githubusercontent.com/97115586/162534824-c6e6b4bc-ccd0-4503-8329-24f2663efafd.png)|
 |[Rescuers](https://www.addictinggames.com/action/rescuers)|![Rescuers](https://user-images.githubusercontent.com/97115586/162534836-476090d7-6d7f-4ad0-a750-e0d9ccc2dac0.png)|
-|[Retro Speed](https://www.addictinggames.com/car/retro-speed)|
-![Retro Speed](https://user-images.githubusercontent.com/97115586/162534853-ae2b57b0-8369-4dff-9d2b-56d1cc978ee1.png)|
-|[Retro Speed 2](https://www.addictinggames.com/car/retro-speed-2)|
-![Retro Speed 2](https://user-images.githubusercontent.com/97115586/162534862-7faf739b-50f5-4159-add3-8abdf4523375.png)|
-|[Risky Way](https://www.addictinggames.com/action/risky-way)|
-![Risky Way](https://user-images.githubusercontent.com/97115586/162534874-ac245cf1-bc11-4ad1-875c-3be985ff7f93.png)|
+|[Retro Speed](https://www.addictinggames.com/car/retro-speed)|![Retro Speed](https://user-images.githubusercontent.com/97115586/162534853-ae2b57b0-8369-4dff-9d2b-56d1cc978ee1.png)|
+|[Retro Speed 2](https://www.addictinggames.com/car/retro-speed-2)|![Retro Speed 2](https://user-images.githubusercontent.com/97115586/162534862-7faf739b-50f5-4159-add3-8abdf4523375.png)|
+|[Risky Way](https://www.addictinggames.com/action/risky-way)|![Risky Way](https://user-images.githubusercontent.com/97115586/162534874-ac245cf1-bc11-4ad1-875c-3be985ff7f93.png)|
 |[Rotare](https://www.addictinggames.com/clicker/rotare)|![Rotare](https://user-images.githubusercontent.com/97115586/162534890-99bd1d91-73bb-4030-bb77-ea2f4dfbcee1.png)|
 |[Samurai Rampage](https://www.addictinggames.com/clicker/samurai-rampage)|![Samurai Rampage](https://user-images.githubusercontent.com/97115586/162534900-efa2ddb1-3380-4007-a0d3-db1c7238350c.png)|
 |[Santa Runner Game](https://www.addictinggames.com/action/santa-run)|![Santa Runner Game](https://user-images.githubusercontent.com/97115586/162534910-1c351159-a811-4cbc-af98-b7d1d53762c6.png)|
 |[Save Rocket](https://www.addictinggames.com/action/save-rocket)|![Save Rocket](https://user-images.githubusercontent.com/97115586/162534925-146f7176-c478-461c-8de0-702eefcec39d.png)|
 |[Shot Pong](https://www.addictinggames.com/clicker/shot-pong)|![Shot Pong](https://user-images.githubusercontent.com/97115586/162534948-69044660-e6af-493e-8e85-d3aa2d72a420.png)|
 |[Smileys](https://www.addictinggames.com/puzzle/smileys)|![Smileys](https://user-images.githubusercontent.com/97115586/162534956-f820aed4-ccbe-421d-9d95-9933d02f2907.png)|
-|[Snake And Circles](https://www.addictinggames.com/action/snakes-and-circles)|![Uploading Snake And Circles.png…]()|
+|[Snake And Circles](https://www.addictinggames.com/action/snakes-and-circles)|![Snake And Circles](https://user-images.githubusercontent.com/97115586/162535636-0cac3c17-52c4-4401-92d6-b9e2f48f27c3.png)|
 |[Solitaire 2048](https://www.addictinggames.com/puzzle/solitaire-2048)|![Solitaire 2048](https://user-images.githubusercontent.com/97115586/162534989-85d3d61c-0941-4c80-a874-085e4dbe37da.png)|
 |[Spear Toss Challenge](https://www.addictinggames.com/clicker/spear-toss-challenge)|![Spear Toss Challenge](https://user-images.githubusercontent.com/97115586/162535001-daa2ade1-1c7e-424e-86a8-d69ea69e3e84.png)|
 |[Spiral Paint](https://www.addictinggames.com/shooting/spiral-paint)|![Spiral Paint](https://user-images.githubusercontent.com/97115586/162535048-4704e147-2cad-4f85-8a6a-e88be49ab039.png)|
