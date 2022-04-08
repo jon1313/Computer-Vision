@@ -1,81 +1,113 @@
-from time import sleep
 import cv2 as cv
 import numpy as np
 from mss import mss
 import keyboard as kb
+from time import sleep
 import pyautogui as pg
 
 
-pg.PAUSE = 0
+class KickYaChopAI:
+    def __init__(self, x_left=340, x_right=600, y=900):
 
-print("Press 's' to start playing.")
-print("Once started, press 'q' to quit.")
-kb.wait('s')
+        # set constants
+        pg.PAUSE = 0
+        self.y = y
+        self.x_left = x_left
+        self.x_right = x_right
 
-left = True
-x = 340
-y = 900
+        # set variables
+        self.left = True
+        self.x = x_left
 
-sct = mss()
+        # initiate screenshotter
+        self.sct = mss()
 
-dimensions_left = {
-    'left': 254,
-    'top': 650,
-    'width': 183,
-    'height': 350
-}
+        # load images for template matching
+        self.wood_left = cv.imread('wood-left.jpg')
+        self.wood_right = cv.imread('wood-right.jpg')
 
-dimensions_right = {
-    'left': 549,
-    'top': 650,
-    'width': 183,
-    'height': 350
-}
+        # get width and height of images
+        self.w = self.wood_left.shape[1]
+        self.h = self.wood_right.shape[0]
 
-wood_left = cv.imread('wood-left.jpg')
-wood_right = cv.imread('wood-right.jpg')
+    def look_and_punch(self, left=254, right=549,
+                       top=650, width=183, height=170,
+                       saw_branch=False):
 
-w = wood_left.shape[1]
-h = wood_left.shape[0]
-
-count = 0
-while True:
-    count += 1
-
-    if left:
-        scr = np.array(sct.grab(dimensions_left))
-        wood = wood_left
-    else:
-        scr = np.array(sct.grab(dimensions_right))
-        wood = wood_right
-
-    scr_no_alpha = scr[:, :, :3]
-
-    result = cv.matchTemplate(scr_no_alpha, wood, cv.TM_CCOEFF_NORMED)
-
-    _, max_val, _, max_loc = cv.minMaxLoc(result)
-
-    if max_val > .85:
-        count = 0
-        left = not left
-        if left:
-            x = 340
+        if self.left:
+            scr = np.array(self.sct.grab({
+                'left': left,
+                'top': top,
+                'width': width,
+                'height': height
+            }))
+            wood = self.wood_left
         else:
-            x = 600
+            scr = np.array(self.sct.grab({
+                'left': right,
+                'top': top,
+                'width': width,
+                'height': height
+            }))
+            wood = self.wood_right
 
-        cv.rectangle(scr, max_loc, (max_loc[0] + w, max_loc[1] + h),
-                     (0, 255, 255), 2)
+        scr_no_alpha = scr[:, :, :3]
 
-    cv.imshow('screenshot', scr)
-    cv.setWindowProperty('screenshot', cv.WND_PROP_TOPMOST, 1)
-    cv.waitKey(1)
-    pg.click(x=x, y=y)
+        result = cv.matchTemplate(scr_no_alpha, wood, cv.TM_CCOEFF_NORMED)
 
-    if count > 250:
-        sleep(5)
-        count = 0
-        left = True
-        pg.click(x=460, y=1000)
+        _, max_val, _, max_loc = cv.minMaxLoc(result)
 
-    if kb.is_pressed('q'):
-        break
+        # if branch observed
+        if max_val > .85:
+            saw_branch = True
+            self.left = not self.left
+            if self.left:
+                self.x = self.x_left
+            else:
+                self.x = self.x_right
+
+            cv.rectangle(scr, max_loc, (max_loc[0] + self.w, max_loc[1] + self.h),
+                         (0, 255, 255), 2)
+
+        cv.imshow('screenshot', scr)
+        cv.setWindowProperty('screenshot', cv.WND_PROP_TOPMOST, 1)
+        cv.waitKey(1)
+        pg.click(x=self.x, y=self.y)
+
+        return saw_branch
+
+
+if __name__ == '__main__':
+
+    # initiate AI
+    ai = KickYaChopAI()
+
+    # instructions
+    print("Press 's' to start playing.")
+    print("Once started, press 'q' to quit.")
+    kb.wait('s')
+
+    restart_count = 0
+    break_count = 0
+    while True:
+        break_count += 1
+        restart_count += 1
+
+        # if branch observed
+        if ai.look_and_punch():
+            restart_count = 0
+
+        # if branch not observed for a while..
+        if restart_count > 1000:
+            sleep(1)
+            restart_count = 0
+            # ..click restart button
+            pg.click(x=460, y=1000)
+
+        if break_count > 1000:
+            sleep(1)
+            break_count = 0
+            ai.look_and_punch(top=700)
+
+        if kb.is_pressed('q'):
+            break
