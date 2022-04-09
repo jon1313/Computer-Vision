@@ -53,9 +53,7 @@
 |[Flip Cube](https://www.addictinggames.com/clicker/flip-cube)|![Flip Cube](https://user-images.githubusercontent.com/97115586/162534144-c4b350bf-5e49-4a93-ba24-d96584cb5edf.png)|
 |[Flying Triangle](https://www.addictinggames.com/clicker/flying-triangle)|![Flying Triangle](https://user-images.githubusercontent.com/97115586/162534172-843af683-5ae7-4703-b327-901643163833.png)|
 |[Happy Helloween](https://www.addictinggames.com/clicker/happy-helloween)|![Happy Helloween](https://user-images.githubusercontent.com/97115586/162534188-ce394ff3-0c97-453d-84e6-c67a2c689483.png)|
-|[Happy Helloween](https://www.addictinggames.com/clicker/happy-helloween)||
 |[He Likes The Darkness](https://www.addictinggames.com/action/he-likes-the-darkness)|![He Likes The Darkness](https://user-images.githubusercontent.com/97115586/162534195-36fdff4e-2c93-45d1-894c-4a9f1f249b85.png)|
-|[Happy Helloween](https://www.addictinggames.com/clicker/happy-helloween)||
 |[Hurdle Run](https://www.addictinggames.com/sports/hurdle-run)|![Hurdle Run](https://user-images.githubusercontent.com/97115586/162534211-f9dfb6de-dfa8-437d-999f-8c05c6032063.png)|
 |[Jelly Up](https://www.addictinggames.com/clicker/jelly-up)|![Jelly Up](https://user-images.githubusercontent.com/97115586/162534217-1cfcafb1-23e8-4bec-82a5-9163f644507d.png)|
 |[Juice Bottle](https://www.addictinggames.com/clicker/juice-bottle)|![Juice Bottle](https://user-images.githubusercontent.com/97115586/162534226-639b67dd-642f-452c-9a84-981fc29495d4.png)|
